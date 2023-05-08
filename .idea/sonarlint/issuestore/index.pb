@@ -1,6 +1,4 @@
 
-E
-css/global/header.css,a\c\ac51d2f366cce20a25f4ad353904950d2fad5ece
 G
 css/home/tecnologia.css,c\b\cbaa88701a126a715fc96dfd18cd14de16226b48
 F
